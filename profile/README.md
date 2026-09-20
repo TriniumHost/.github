@@ -45,7 +45,7 @@ Utilizamos tecnologias modernas e um ecossistema projetado para o melhor desempe
 🔗 https://triniumhost.com/
 
 ### 🎫 Área do Cliente  
-🔗 https://central.triniumhost.com/
+🔗 https://finance.triniumhost.com/
 
 ### 📘 Documentação  
 🔗 https://docs.triniumhost.com/
