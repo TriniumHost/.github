@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.triniumhost.indevs.in/file_0000000053a461f589f74c58ab1f9505.png" width="100%" />
+  <img src="https://cdn.triniumhost.com/file_0000000053a461f589f74c58ab1f9505.png" width="100%" />
 </p>
 
 # 🌐 TriniumHost
