@@ -5,7 +5,7 @@
 # 🌐 TriniumHost
 
 A **TriniumHost** é uma provedora de hospedagem acessível, moderna e focada em entregar **alta performance** para todos — desde pequenos criadores até grandes projetos.  
-Oferecemos planos **gratuitos** e **premium**, garantindo acessibilidade, estabilidade e suporte de qualidade.
+Oferecemos planos **premium**, garantindo acessibilidade, estabilidade e suporte de qualidade.
 
 ---
 
