@@ -51,7 +51,7 @@ Utilizamos tecnologias modernas e um ecossistema projetado para o melhor desempe
 🔗 https://docs.triniumhost.com/
 
 ### 💬 Comunidade (Discord)  
-🔗 https://links.triniumhost.com/dc
+🔗 https://discord.gg/bXUDEVHDt3
 
 ---
 
